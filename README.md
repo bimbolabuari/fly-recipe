@@ -1,24 +1,28 @@
-# README
+# Fly.io Rails Hotwire Hiring Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- This project is about a self-serve diagnostic tool to a simple Hotwire page that measures the network ping time between the browser and the server rendering the page when the user clicks a button, The ping measures the full network transfer time between the browser and the server and get displayed in milliseconds.
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Rails 
+- Hotwire
 
-* System dependencies
+## Live Demo
 
-* Configuration
+[Live Demo Link](https://bimbola-hotwire-recipe.fly.dev)
 
-* Database creation
+## 👤 Abimbola Buari
 
-* Database initialization
+- Github: [@bimbolabuari](https://github.com/bimbolabuari)
+- Twitter: [@bimbolabuari](https://twitter.com/bimbolabuari)
+- Linkedin: [@bimbolabuari](https://www.linkedin.com/in/bimbolabuari/)
 
-* How to run the test suite
+## 🤝 Contributing
 
-* Services (job queues, cache servers, search engines, etc.)
+Contributions, issues and feature requests are welcome!
 
-* Deployment instructions
+Feel free to check the [issues page](../../issues).
 
-* ...
+## Show your support
+
+Give a ⭐️ if you like this project!

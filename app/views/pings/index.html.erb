@@ -1,0 +1,7 @@
+<h1>Ping</h1>
+<%= form_with(url: pings_path) do |form| %>
+  <div class="actions">
+    <%= form.submit :Submit %>
+  </div>
+<% end %>
+<p id="alert"> Click submit button to get response time </p>
